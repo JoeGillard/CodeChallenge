@@ -1,6 +1,6 @@
 # Code challenge: self-supervised learning and embeddings generation
 ## Introduction
-This repository contains the code to solve a challenge involving a self-supervised learning task involving pet images. 
+This repository contains the code solution to a self-supervised learning challenge involving pet images. 
 ## General approach
 To address this challenge, the following approach was taken:
 * A pre-trained encoder was customised, closely following the approach of [Chen et al. (2020), A Simple Framework for Contrastive Learning of Visual Representation](https://arxiv.org/abs/2002.05709), i.e. the SimCLR approach.
